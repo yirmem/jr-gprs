@@ -1,4 +1,4 @@
-site_name: JR-GPRS帮助文档
+site_name: 阴极保护平台帮助文档
 nav:
     - 使用说明: index.md
     - 历史更新: update.md
